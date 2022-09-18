@@ -6,7 +6,7 @@ module.exports = {
   solidity: "0.8.17",
   paths: {
     sources: "./contracts",
-    artifacts: "../web/src/artifacts",
+    artifacts: "../frontend/src/artifacts",
     tests: "./test",
   },
   networks: {
